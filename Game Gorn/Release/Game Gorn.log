@@ -1,0 +1,24 @@
+﻿  Main Gorn.cpp
+d:\gamee\game gorn\game gorn\main gorn.cpp(48): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\gamee\game gorn\game gorn\main gorn.cpp(260): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\gamee\game gorn\game gorn\main gorn.cpp(415): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\gamee\game gorn\game gorn\main gorn.cpp(501): warning C4018: '<': signed/unsigned mismatch
+d:\gamee\game gorn\game gorn\main gorn.cpp(564): warning C4018: '<': signed/unsigned mismatch
+d:\gamee\game gorn\game gorn\main gorn.cpp(581): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\gamee\game gorn\game gorn\main gorn.cpp(945): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\gamee\game gorn\game gorn\main gorn.cpp(959): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\gamee\game gorn\game gorn\main gorn.cpp(1105): warning C4018: '<': signed/unsigned mismatch
+d:\gamee\game gorn\game gorn\main gorn.cpp(1116): warning C4018: '<': signed/unsigned mismatch
+d:\gamee\game gorn\game gorn\main gorn.cpp(1121): warning C4018: '<': signed/unsigned mismatch
+d:\gamee\game gorn\game gorn\main gorn.cpp(1278): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\gamee\game gorn\game gorn\main gorn.cpp(1283): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\gamee\game gorn\game gorn\main gorn.cpp(1335): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\gamee\game gorn\game gorn\main gorn.cpp(1342): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\gamee\game gorn\game gorn\main gorn.cpp(1411): warning C4018: '<': signed/unsigned mismatch
+     Creating library D:\Gamee\Game Gorn\Release\Game Gorn.lib and object D:\Gamee\Game Gorn\Release\Game Gorn.exp
+  Generating code
+  1 of 531 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Game Gorn.vcxproj -> D:\Gamee\Game Gorn\Release\Game Gorn.exe
